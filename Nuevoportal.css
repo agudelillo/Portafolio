@@ -1,0 +1,65 @@
+
+.recuadr{
+
+
+}
+.recuadro{
+  background-color:rgb(8,20,54);
+  opacity:0.7;
+  padding:10px;
+  width:80%;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius:20px;
+  margin-bottom:10px;
+  margin-top:40px;
+
+}
+.nav-pills{
+  font-size:1.7em;
+  background-color:rgba(8,20,54,0.9);
+}
+body{
+  font-family: Lobster;
+  color:white;
+  background: url('http://previews.stakkato.com/freecodecamp/code04.jpg') top right no-repeat;           
+  background-attachment:fixed;
+  background-size: cover;
+}
+h1{
+  font-size:6em;
+}
+.pageOne{
+  padding:90px;
+  
+}
+#AboutMeDescrip{
+  font-size:2.2em;
+  margin-top:50px;
+}
+.pageTwo{
+ background-color:rgba(8,20,54,0.8);
+ padding:40px;
+}
+#foto1{
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 100px;
+}
+#foto2{
+  width: 600px; 
+  margin-left: auto;
+  margin-right: auto;
+   border-radius: 100px;
+}
+.pageTree{
+ padding:40px;
+}
+.imgPortafolio{
+  width: 150px;
+}
+.pageFor{
+ background-color:rgb(8,20,54);
+ padding:40px;
+}
